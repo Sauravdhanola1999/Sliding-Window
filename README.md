@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/Sauravdhanola1999/Sliding-Window/tree/master/1052-grumpy-bookstore-owner) |
 | [1652-defuse-the-bomb](https://github.com/Sauravdhanola1999/Sliding-Window/tree/master/1652-defuse-the-bomb) |
 ## Sliding Window
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sauravdhanola1999/Sliding-Window/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sauravdhanola1999/Sliding-Window/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sauravdhanola1999/Sliding-Window/tree/master/0567-permutation-in-string) |
+| [1052-grumpy-bookstore-owner](https://github.com/Sauravdhanola1999/Sliding-Window/tree/master/1052-grumpy-bookstore-owner) |
 | [1652-defuse-the-bomb](https://github.com/Sauravdhanola1999/Sliding-Window/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
