@@ -11,7 +11,7 @@ class Solution {
 
         for(int i=0; i<minutes; i++){
             if(grumpy[i]==1){
-                base+=customers[i];
+                extra+=customers[i];
             }
         }
 
