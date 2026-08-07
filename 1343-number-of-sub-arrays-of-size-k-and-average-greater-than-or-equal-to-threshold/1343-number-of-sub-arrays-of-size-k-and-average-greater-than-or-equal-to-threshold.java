@@ -10,7 +10,7 @@ class Solution {
             left++;
          }
          if(right-left+1==k){
-            if((double)sum/k>=threshold){
+           if (sum >= k * threshold){
                 count++;
             }
          }
