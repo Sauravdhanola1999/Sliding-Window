@@ -1,7 +1,7 @@
 class Solution {
     public int countGoodSubstrings(String s) {
         int count =0;
-        for(int i=0; i+2<s.length(); i++){
+        for(int i=0; i<=s.length()-3; i++){
             HashSet<Character> set = new HashSet<>();
              set.add(s.charAt(i));
              set.add(s.charAt(i+1));
